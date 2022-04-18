@@ -1,0 +1,15 @@
+D:\Cosas\ReadFromCSV\bin\Debug\net6.0\ReadFromCSV.exe
+D:\Cosas\ReadFromCSV\bin\Debug\net6.0\ReadFromCSV.deps.json
+D:\Cosas\ReadFromCSV\bin\Debug\net6.0\ReadFromCSV.runtimeconfig.json
+D:\Cosas\ReadFromCSV\bin\Debug\net6.0\ReadFromCSV.dll
+D:\Cosas\ReadFromCSV\bin\Debug\net6.0\ReadFromCSV.pdb
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ReadFromCSV.csproj.AssemblyReference.cache
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ReadFromCSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ReadFromCSV.AssemblyInfoInputs.cache
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ReadFromCSV.AssemblyInfo.cs
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ReadFromCSV.csproj.CoreCompileInputs.cache
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ReadFromCSV.dll
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\refint\ReadFromCSV.dll
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ReadFromCSV.pdb
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ReadFromCSV.genruntimeconfig.cache
+D:\Cosas\ReadFromCSV\obj\Debug\net6.0\ref\ReadFromCSV.dll
